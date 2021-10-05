@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "50.116.42.155",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "test-db",
+            "database": "test-db1",
+            "username": "postgres",
+            "connectString": "postgres://obyoaizo:XY1M-LkL9SDEES_oUkzGNZb29cbh1q5U@batyr.db.elephantsql.com/obyoaizo"
+        }
+    ]
+}
